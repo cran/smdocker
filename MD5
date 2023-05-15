@@ -1,9 +1,9 @@
-b776e519dfef4007c7edd28b0438e5cd *DESCRIPTION
+b339b572032e57762439c5bcb0f28e51 *DESCRIPTION
 9f95999d44cdafc0941f59343c4adba8 *LICENSE
 c562ab80ccf5eea661c02a093e521b81 *NAMESPACE
-d9f3f8b4c79d477b85984012e5c73f9b *NEWS.md
+0566b8acc1e1537d506638d1acd1e70f *NEWS.md
 73a677a88fcab41028c467d57e54e2f0 *R/builder.R
-7020445f9197018e1e109c407fc60113 *R/code_build.R
+d654f84450cd5fc9d540b100e67a608b *R/code_build.R
 c3ac8d32e97998314688c5d82b66fc63 *R/config.R
 b4ae8d0f421a498edf52b25f19110424 *R/logging.R
 b0bc57ccc77d6506c7e58196987e34b8 *R/logs.R
@@ -22,7 +22,7 @@ fdeeed235bd5938c7811ab257c21e68f *tests/testthat/helper.R
 3dafb5a751c2ed608a21310a19b4bb6e *tests/testthat/project/dockerfile
 72214db4e1e543018d1bafe86ea3b444 *tests/testthat/project/helloworld.R
 f35e88175f86ffdcd2f291c6da3f08fb *tests/testthat/test-builder.R
-cb6ba462aed73354e9e8e57e465b9173 *tests/testthat/test-code-build.R
+b48a5aca8eaf6f6e6f82e5f9ff0ec052 *tests/testthat/test-code-build.R
 dcc12aa5d8e871cdc547a6516867b735 *tests/testthat/test-logging.R
 2172b786ea0f3a42b578d34bc21a6220 *tests/testthat/test-logs.R
 fa19760e12909a3b0490e67a1f61fe09 *tests/testthat/test-main.R
