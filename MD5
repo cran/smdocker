@@ -1,14 +1,14 @@
-b339b572032e57762439c5bcb0f28e51 *DESCRIPTION
+6cddcf04a7f2427a9864cfcefb739613 *DESCRIPTION
 9f95999d44cdafc0941f59343c4adba8 *LICENSE
 c562ab80ccf5eea661c02a093e521b81 *NAMESPACE
-0566b8acc1e1537d506638d1acd1e70f *NEWS.md
+11d377c15e80b631aaa43edb201eb31a *NEWS.md
 73a677a88fcab41028c467d57e54e2f0 *R/builder.R
 d654f84450cd5fc9d540b100e67a608b *R/code_build.R
 c3ac8d32e97998314688c5d82b66fc63 *R/config.R
 b4ae8d0f421a498edf52b25f19110424 *R/logging.R
 b0bc57ccc77d6506c7e58196987e34b8 *R/logs.R
 ba5b476270428c725dbacf9b4cf10db1 *R/main.R
-a082dc3a2c4e0cccc72286d0d49b4a57 *R/sm_role.R
+bddd7a6ec9671bdcdd87d5873f61df38 *R/sm_role.R
 e1b1541711a5912b4bd5de8ac66a1ba9 *R/utils.R
 e7fdce437d52dd1032fad898a7cfdfd3 *R/zzz.R
 7a9d36b4db7cfcd409513b2da8ab833b *README.md
@@ -26,6 +26,6 @@ b48a5aca8eaf6f6e6f82e5f9ff0ec052 *tests/testthat/test-code-build.R
 dcc12aa5d8e871cdc547a6516867b735 *tests/testthat/test-logging.R
 2172b786ea0f3a42b578d34bc21a6220 *tests/testthat/test-logs.R
 fa19760e12909a3b0490e67a1f61fe09 *tests/testthat/test-main.R
-b20473dad813028144e3048a7fad481b *tests/testthat/test-sm-role.R
+843e862d9c4b215c1054c272ed7f7374 *tests/testthat/test-sm-role.R
 10f48f79ea94fd34682e620fbe4d4e58 *tests/testthat/test-smdocker-config.R
 ed37b2d7c04c7a29e0298ea83f2751b1 *tests/testthat/test-utils.R
